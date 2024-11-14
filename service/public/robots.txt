@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://casper-event.store/sitemap.xml
